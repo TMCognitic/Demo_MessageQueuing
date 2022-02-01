@@ -43,11 +43,12 @@ namespace Demo_MessageQueuing
                 Console.ReadLine();
             }
         }
-    }    
+    }
+
+    public class Demo
+    {
+        public string Text { get; set; }
+    }
 }
 
 
-public class Demo
-{
-    public string Text { get; set; }
-}
