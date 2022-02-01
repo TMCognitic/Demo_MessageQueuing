@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="System.Messaging.MessageQueue">
+    <Position X="3.25" Y="2.5" Width="2" />
+    <Members>
+      <Property Name="Authenticate" Hidden="true" />
+      <Property Name="BasePriority" Hidden="true" />
+      <Property Name="DefaultPropertiesToSend" Hidden="true" />
+      <Property Name="DenySharedReceive" Hidden="true" />
+      <Property Name="EnableConnectionCache" Hidden="true" />
+      <Property Name="EncryptionRequired" Hidden="true" />
+      <Field Name="InfiniteQueueSize" Hidden="true" />
+      <Field Name="InfiniteTimeout" Hidden="true" />
+      <Property Name="MaximumJournalSize" Hidden="true" />
+      <Property Name="MessageReadPropertyFilter" Hidden="true" />
+      <Property Name="MulticastAddress" Hidden="true" />
+      <Property Name="ReadHandle" Hidden="true" />
+      <Property Name="SynchronizingObject" Hidden="true" />
+      <Property Name="Transactional" Hidden="true" />
+      <Property Name="UseJournalQueue" Hidden="true" />
+      <Property Name="WriteHandle" Hidden="true" />
+    </Members>
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="System.ComponentModel.Component" Collapsed="true">
+    <Position X="3.25" Y="1.25" Width="2" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
